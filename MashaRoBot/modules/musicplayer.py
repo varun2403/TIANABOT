@@ -52,6 +52,5 @@ __help__ = """
 
 *Player cmd and all other cmds except /play, /current  and /playlist are only for admins with manage group
 
-PLEASE NOTE THIS SERVICE IS UNSTABLE AND CAN BE STOPPED ANYTIME 
-"""
+PLEASE NOTE THIS SERVICE IS UNSTABLE AND CAN BE STOPPED ANYTIME."""
 
