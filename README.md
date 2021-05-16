@@ -1,18 +1,21 @@
-# RIKUDO SENIN GROUP MANAGER BOT
+# TIANA BOT
+THIS IS GROUP MANAGER BOT.
+# DEPLOYMENT
+### CLICK BELOW IMAGE TO DEPLOY
+[![Deploy](https://telegra.ph/file/1ab87614d722fd1b68caa.jpg)](https://heroku.com/deploy?template=https://github.com/prince301102/tianabot.git)
 
-HAGUROMO OTSUSUKI IS ADVANCE GROUP MANAGER BOT FOR GEEKS 
+## DEPLOY HERE 
 
-CLICK ON BELOW IMAGE TO DEPLOY ON HEROKU 
+The easiest way to deploy this Bot
 
-[![DEPLOY](https://telegra.ph/file/eb96601d279cbbe5538f9.jpg)](https://heroku.com/deploy?template=https://github.com/satyanandatripathi/EMCEE)
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/prince301102/Tiana-2.0"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-Keep supporting us 😊
+Credits - [PRINCE](https://t.me/Prince_3011)
 
-<a href="https://github.com/satyanandatripathi/emcee" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/satyanandatripathi/emcee" />
-<a href="https://t.me/Emcee_Support" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> 
+### TELEGRAM
+Check me on [TELEGRAM](https://t.me/TIANA_PRINCE_BOT)
 
-
-Your beloved:-
-
-[EMCEE DEVS](https://t.me/Emcee_Devs)
-[SATYANAND](https://t.me/satyanandatripathi)
+<details>
+<summary> CREDITS </summary>
+<h3> PRINCE </h3>
+</details>
