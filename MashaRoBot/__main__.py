@@ -73,17 +73,10 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-TECHNO_IMG = "https://telegra.ph/file/1ab87614d722fd1b68caa.jpg"
 
 PM_START_TEXT = """
-⚜️Hi I'm TIANA BOT⚜️
-
-⚜️ I am GROUP MANAGER BOT, an open-source bot you can manage your group by this bot.
-Maintained by @Prince_3011 ❤
-
-⚜️ For source code Join our support group @PRINCE_BOTS_SUPPORT.
-
-⚜️ Use the buttons below to know more about me."""
+𝙷𝙴𝚈,my name is TIANA BOT/n
+𝙸'𝙰𝙼 𝙰𝙽 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙸𝙽𝙶 𝙱𝙾𝚃!` *📚𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂* `𝙱𝚄𝚃𝚃𝙾𝙽 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙴𝚇𝙿𝙻𝙾𝚁𝙴 𝙼𝙾𝚁𝙴 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 𝙰𝙽𝙳 𝙼𝚈 𝙵𝚄𝙽𝙲𝚃𝙸𝙾𝙽𝚂 [@PRINCE_3011](https://telegra.ph/file/13f02d7e14a3efe4ccf43.jpg)"""
 
 buttons = [
     [
