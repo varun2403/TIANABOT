@@ -75,13 +75,13 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-𝙷𝙴𝚈,my name is TIANA BOT/n
+𝙷𝙴𝚈,my name is ༒ 𝙏𝙄𝘼𝙉𝘼 ༒
 𝙸'𝙰𝙼 𝙰𝙽 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙸𝙽𝙶 𝙱𝙾𝚃!` *📚𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂* `𝙱𝚄𝚃𝚃𝙾𝙽 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙴𝚇𝙿𝙻𝙾𝚁𝙴 𝙼𝙾𝚁𝙴 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 𝙰𝙽𝙳 𝙼𝚈 𝙵𝚄𝙽𝙲𝚃𝙸𝙾𝙽𝚂 [@PRINCE_3011](https://telegra.ph/file/13f02d7e14a3efe4ccf43.jpg)"""
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD TIANA TO YOUR GROUP ➕️", url="t.me/Tiana_Prince_bot?startgroup=true"),
+            text="➕️ ADD ༒ 𝙏𝙄𝘼𝙉𝘼 ༒ TO YOUR GROUP ➕️", url="t.me/Tiana_Prince_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ℹ️ABOUT", callback_data="masha_"),
@@ -100,14 +100,14 @@ buttons = [
 ]
 
 HELP_STRINGS = """
-⚜️ TIANO BOT WITH NEW FEATURES 
+⚜️ ༒ 𝙏𝙄𝘼𝙉𝘼 ༒ WITH NEW FEATURES 
 ꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF EMCEE*꧂
 𖣘 *All commands can either be used with* `/` *or* `!`.
 𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCE_BOTS_SUPPORT* [.](https://telegra.ph/file/13f02d7e14a3efe4ccf43.jpg)
 """
 
 
-DONATE_STRING = """No need.. I'm rich"""
+DONATE_STRING ="""CONTACT ME ON @PRINCE_3011"""
 
 IMPORTED = {}
 MIGRATEABLE = []
