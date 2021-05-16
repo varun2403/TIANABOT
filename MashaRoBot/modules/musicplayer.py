@@ -18,18 +18,19 @@
 
 __mod_name__ = "VC PLAYER"
 __help__ = """
-          》** PRINCR_VCPLAYER ** 《
+          》** TIANA_VCPLAYER ** 《
             
- EMCEEVCPLAYER plays music in your group's voice chat
+ TIANA_VCPLAYERplays music in your group's voice chat
  
- Assistant name >> ꧁ @PRINCE_VCMUSIC_PLUGIN ꧂
+ Assistant name >> ꧁ @TIANA_VCMUSIC_PLUGIN ꧂
  
- Setting up 
+⚙️Setting up 
 1) Make bot admin
 2) Start a voice chat
 3) Try `/play [song name]` for the first time by an admin
-*) If userbot joined enjoy music, If not add @PRINCE_VCMUSIC_PLUGIN to your group and retry
+*) If userbot joined enjoy music, If not add @TIANA_VCMUSIC_PLUGIN to your group and retry
   Commands
+
 =>> Song Playing 🎶
   /play: Play song using youtube music
   /play [yt url] : Play the given yt url
@@ -44,10 +45,13 @@ __help__ = """
   /end: Stops media playback
   /current: Shows the current Playing track
   /playlist: Shows playlist
+
 =>> More tools 📲
   /admincache: Updates admin info of your group. Try if bot isn't recognize admin
-  /userbotjoin: Invite @PRINCE_VCMUSIC_PLUGIN Userbot to your chat
-*Player cmd and all other cmds except /play, /current  and /playlist  are only for admins with manage group
+  /userbotjoin: Invite @TIANA_VCMUSIC_PLUGIN Userbot to your chat
+
+*Player cmd and all other cmds except /play, /current  and /playlist are only for admins with manage group
+
 PLEASE NOTE THIS SERVICE IS UNSTABLE AND CAN BE STOPPED ANYTIME 
 """
 
