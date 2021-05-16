@@ -81,7 +81,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD HAGUROMO TO YOUR GROUP ➕️", url="t.me/Tiana_Prince_bot?startgroup=true"),
+            text="➕️ ADD TIANA TO YOUR GROUP ➕️", url="t.me/Tiana_Prince_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ℹ️ABOUT", callback_data="masha_"),
@@ -105,7 +105,7 @@ HELP_STRINGS = """
 ⚜️ TIANO BOT WITH NEW FEATURES ⚜️
 ꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF EMCEE*꧂
 𖣘 *All commands can either be used with* `/` *or* `!`.
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCE_BOTS_SUPPORT* [.](https://telegra.ph/file/36c57221ea00d88fbcd89.jpg)
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCE_BOTS_SUPPORT* [.](https://telegra.ph/file/13f02d7e14a3efe4ccf43.jpg)
 """
 
 
