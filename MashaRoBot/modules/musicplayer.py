@@ -18,18 +18,18 @@
 
 __mod_name__ = "VC PLAYER"
 __help__ = """
-          <b>》** EMCEEVCPLAYER ** 《</b>
+          》** PRINCR_VCPLAYER ** 《
             
  EMCEEVCPLAYER plays music in your group's voice chat
  
- Assistant name >> ꧁ @Emcee_Assistant_VC ꧂
+ Assistant name >> ꧁ @PRINCE_VCMUSIC_PLUGIN ꧂
  
-<b> Setting up </b>
+ Setting up 
 1) Make bot admin
 2) Start a voice chat
 3) Try `/play [song name]` for the first time by an admin
 *) If userbot joined enjoy music, If not add @PRINCE_VCMUSIC_PLUGIN to your group and retry
-<b> Commands </b>
+  Commands
 =>> Song Playing 🎶
   /play: Play song using youtube music
   /play [yt url] : Play the given yt url
@@ -48,6 +48,6 @@ __help__ = """
   /admincache: Updates admin info of your group. Try if bot isn't recognize admin
   /userbotjoin: Invite @PRINCE_VCMUSIC_PLUGIN Userbot to your chat
 *Player cmd and all other cmds except /play, /current  and /playlist  are only for admins with manage group
-<b> PLEASE NOTE THIS SERVICE IS UNSTABLE AND CAN BE STOPPED ANYTIME </b>
+PLEASE NOTE THIS SERVICE IS UNSTABLE AND CAN BE STOPPED ANYTIME 
 """
 
