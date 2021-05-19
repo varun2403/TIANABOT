@@ -79,7 +79,7 @@ PM_START_TEXT = """Hello, My name is ༒ 𝙏𝙄𝘼𝙉𝘼 ༒
 Hey , I am a Group Manager,
 Made specially for Managing Groups.
 
-This Pro bot was made by [PRINCE](https://t.me/prince_3011)
+This Pro bot was made by [ℙℝ𝕀ℕℂ𝔼](https://t.me/prince_3011)
 Click /help or use button below to find out more about how to use me to my full potential."""
 
 buttons = [
@@ -106,7 +106,7 @@ buttons = [
 HELP_STRINGS = """
 ༒ 𝙏𝙄𝘼𝙉𝘼 ༒ WITH NEW FEATURES 
 
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF EMCEE*꧂
+꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF TIANA*꧂
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
 
