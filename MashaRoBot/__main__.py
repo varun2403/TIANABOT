@@ -74,11 +74,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 
-PM_START_TEXT = """
-𝙷𝙴𝚈,my name is ༒ 𝙏𝙄𝘼𝙉𝘼 ༒
-𝙸'𝙰𝙼 𝙰𝙽 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙸𝙽𝙶 𝙱𝙾𝚃!` *📚𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂* `𝙱𝚄𝚃𝚃𝙾𝙽 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙴𝚇𝙿𝙻𝙾𝚁𝙴 𝙼𝙾𝚁𝙴 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 𝙰𝙽𝙳 𝙼𝚈 𝙵𝚄𝙽𝙲𝚃𝙸𝙾𝙽𝚂
+PM_START_TEXT = """Hello GUYS, my name is ༒ 𝙏𝙄𝘼𝙉𝘼 ༒!
 
- [MAINTAIN BY @PRINCE_3011](https://telegra.ph/file/1ab87614d722fd1b68caa.jpg)"""
+Hey , I am a Group Manager,
+Made specially for Managing Groups.
+
+This Pro bot was made by [PRINCE](https://t.me/prince_3011)
+Click /help or use button below to find out more about how to use me to my full potential.
+
+If You Are Looking For My Repo Then It is this Repo LINK."""
 
 buttons = [
     [
@@ -102,7 +106,7 @@ buttons = [
 ]
 
 HELP_STRINGS = """
-⚜️ ༒ 𝙏𝙄𝘼𝙉𝘼 ༒ WITH NEW FEATURES 
+༒ 𝙏𝙄𝘼𝙉𝘼 ༒ WITH NEW FEATURES 
 
 ꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF EMCEE*꧂
 
@@ -366,7 +370,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
                  ❍ I check for admins' permissions before executing any command and more stuffs
                  \n_Emcee's licensed under the GNU General Public License v3.0_
                  Here is the [💾Repository](https://www.github.com/prince301102/tiana-2.0).
-                 If you have any question about Rikudo senin, let us know at @satyanandatripathi.""",
+                 If you have any question about Rikudo senin, let us know at @Prince_3011.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
