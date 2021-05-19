@@ -370,7 +370,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
                  ❍ I check for admins' permissions before executing any command and more stuffs
                  \n_Emcee's licensed under the GNU General Public License v3.0_
                  Here is the [💾Repository](https://www.github.com/prince301102/tiana-2.0).
-                 If you have any question about Rikudo senin, let us know at @Prince_3011.""",
+                 If you have any question about Tiana, let us know at @Prince_3011.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
