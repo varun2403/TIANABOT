@@ -1,6 +1,6 @@
-# TIANA 2.0
+## TIANA 2.0
 THIS IS GROUP MANAGER BOT.
-## DEPLOYMENT
+# DEPLOYMENT
 ### CLICK BELOW IMAGE TO DEPLOY
 [![Deploy](https://telegra.ph/file/bcd7b3dec21d1c2b2583a.png)](https://heroku.com/deploy?template=https://github.com/prince301102/tianabot.git)
 
