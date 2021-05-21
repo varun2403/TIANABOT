@@ -1,5 +1,5 @@
 {
-      "name": "EMCEE",
+      "name": "TIANA",
       "description": "Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "Emcee"
       ],   
-   "repository": "https://github.com/satyanandatripathi/EMCEE",
+   "repository": "https://github.com/prince301102/tiana-2.0",
    "addons": [
       {
          "options": {
@@ -68,7 +68,7 @@
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": false,
-         "value": ""
+         "value": "mongodb+srv://username: password@cluster0.8rfef.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },
       "IBM_WATSON_CRED_URL": {
          "description": "This is required for the speech to text module. Get your USERNAME from https://console.bluemix.net/docs/services/speech-to-text/getting-started.html",
