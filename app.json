@@ -46,8 +46,8 @@
       },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
-         "required": true,
-         "value": ""
+         "required": false,
+         "value": "1836395711"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
