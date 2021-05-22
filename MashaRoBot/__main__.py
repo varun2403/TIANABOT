@@ -98,7 +98,7 @@ buttons = [
             text="👥SUPPORT👥", url="https://t.me/PRINCEBOTSUPPORT"),
     ],
     [  
-        InlineKeyboardButton(text="Thanks to", url="https://t.me/PRINCENETWORK"),
+        InlineKeyboardButton(text="Thanks to", url="https://t.me/PRINCEBOTS"),
     ], 
     
 ]
