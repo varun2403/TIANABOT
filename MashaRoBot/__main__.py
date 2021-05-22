@@ -93,12 +93,12 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="✨Owner✨", url="http://t.me/PRINCE_3011"),
+            text="✨Owner✨", url="http://t.me/prince_3011"),
         InlineKeyboardButton(
-            text="👥SUPPORT👥", url="https://t.me/PRINCE_BOTS_SUPPORT"),
+            text="👥SUPPORT👥", url="https://t.me/PRINCEBOTSUPPORT"),
     ],
     [  
-        InlineKeyboardButton(text="Thanks to", url="https://t.me/PRINCE_NETWORK"),
+        InlineKeyboardButton(text="Thanks to", url="https://t.me/PRINCENETWORK"),
     ], 
     
 ]
