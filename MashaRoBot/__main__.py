@@ -88,17 +88,17 @@ buttons = [
             text="➕️ ADD ༒ 𝙏𝙄𝘼𝙉𝘼 ༒ TO YOUR GROUP ➕️", url="t.me/Tiana_Prince_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ℹ️ABOUT", callback_data="masha_"),
-        InlineKeyboardButton(text="📚COMMANDS", callback_data="help_back"),
+        InlineKeyboardButton(text="📱ABOUT", callback_data="masha_"),
+        InlineKeyboardButton(text="⚜️HELP", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="✨Owner✨", url="http://t.me/prince_3011"),
+            text="✨MY BF✨", url="http://t.me/prince_3011"),
         InlineKeyboardButton(
-            text="👥SUPPORT👥", url="https://t.me/PRINCEBOTSUPPORT"),
+            text="⚜️CHANNEL⚜️", url="https://t.me/PRINCEBOTS"),
     ],
     [  
-        InlineKeyboardButton(text="Thanks to", url="https://t.me/PRINCEBOTS"),
+        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/PRINCEBOTSUPPORT"),
     ], 
     
 ]
