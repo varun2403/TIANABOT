@@ -13,7 +13,7 @@ The easiest way to deploy this Bot
 Credits - [PRINCE](https://t.me/Prince_3011)
 
 ### TELEGRAM
-Check me on [TELEGRAM](https://t.me/TIANA_PRINCE_BOT)
+Check me on [TELEGRAM](https://t.me/tiana_prince_bot)
 
 <details>
 <summary> CREDITS </summary>
