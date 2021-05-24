@@ -17,5 +17,5 @@ Check me on [TELEGRAM](https://t.me/TIANA_PRINCE_BOT)
 
 <details>
 <summary> CREDITS </summary>
-<h3> PRINCE </h3>
+<h3> [@PRINCE_3011](https://t.me/prince_3011) </h3>
 </details>
