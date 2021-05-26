@@ -79,7 +79,7 @@ PM_START_TEXT = """Hello, My name is ༒ 𝙏𝙄𝘼𝙉𝘼 ༒
 Hey , I am a Group Manager,
 Made specially for Managing Groups.
 
-This Pro bot was made by [ℙℝ𝕀ℕℂ𝔼](https://t.me/prince_3011)
+This Pro bot was made by [ℙℝ𝕀ℕℂ𝔼](@prince_3011)
 Click /help or use button below to find out more about how to use me to my full potential."""
 
 buttons = [
@@ -110,7 +110,7 @@ HELP_STRINGS = """
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
 
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCE_BOTS_SUPPORT* [.](https://telegra.ph/file/1ab87614d722fd1b68caa.jpg)
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCEBOTSUPPORT* [.](https://telegra.ph/file/1ab87614d722fd1b68caa.jpg)
 """
 
 
