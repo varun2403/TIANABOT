@@ -77,6 +77,9 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """Hello, My name is 💞𝐀𝐋𝐈𝐍𝐀💞
 Hey , I am a Group Manager,
 Made specially for Managing Groups.
+Alina Comes with Two Maine features 
+💞𝐀𝐋𝐈𝐍𝐀💞 Powerful Group Management Bot + Vc Bot. You can manage your Group using Alina and also you can Play songs in Vc using Alina. IT makes💞𝐀𝐋𝐈𝐍𝐀💞 different then other bots. 
+
 
 This Pro bot was made by [𝙎𝙃𝙐𝘽𝙃𝘼𝙈 🅡🅐🅙](https://t.me/shubhamtech2)
 Click /help or use button below to find out more about how to use me to my full potential."""
@@ -94,12 +97,18 @@ buttons = [
         InlineKeyboardButton(
             text="✨MY OWNER 😎✨", url="http://t.me/shubhamtech2"),
         InlineKeyboardButton(
-            text="⚜️CHANNEL⚜️", url="https://t.me/alinalog23"),
+            text="⚜️CHANNEL⚜️", url="https://t.me/PRINCEBOTS"),
     ],
     [  
         InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/PRINCEBOTSUPPORT"),
-    ], 
-    
+    InlineKeyboardButton(text="🎵MUSIC-GROUP🎵",url="https://t.me/MUSIC_CHATS_GROUP"),
+], 
+ [ InlineKeyboardButton(text="👑BOT-CREADIT👑",url="https://t.me/TERABAAP_DEVIL"),
+ InlineKeyboardButton (text="✅MAIN CHANNEL✅",url="https://t.me/alinalog23"),],
+
+
+    [ InlineKeyboardButton(text="🔥JOIN CHATTING GROUP🔥",url="https://t.me/friendhship"),
+],
 ]
 
 HELP_STRINGS = """
@@ -109,7 +118,7 @@ HELP_STRINGS = """
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
 
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCEBOTSUPPORT* [.](https://telegra.ph/file/1ab87614d722fd1b68caa.jpg)
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCEBOTSUPPORT* [.](https://telegra.ph/file/167501102e7b1b7cca989.jpg)
 """
 
 
