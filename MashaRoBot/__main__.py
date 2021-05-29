@@ -75,8 +75,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """Hello, My name is 💞𝐀𝐋𝐈𝐍𝐀💞
-Hey , I am a Group Manager,
-Made specially for Managing Groups.
+𝙃𝙚𝙡𝙡𝙤, 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 💞𝐀𝐋𝐈𝐍𝐀💞 
+𝙃𝙚𝙮,𝙄 𝙖𝙢 𝙖 𝙂𝙧𝙤𝙪𝙥 𝙈𝙖𝙣𝙖𝙜𝙚𝙧, 𝙈𝙖𝙙𝙚 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙛𝙤𝙧 𝙈𝙖𝙣𝙖𝙜𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥𝙨.
 
 💞𝐀𝐋𝐈𝐍𝐀💞 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠 𝑖𝑛 𝐴𝐿𝐼𝑁𝐴 🔥 
 1=> 𝑌𝑜𝑢 𝑐𝑎𝑛 𝑚𝑎𝑛𝑎𝑔𝑒 𝑦𝑜𝑢𝑟 𝐺𝑟𝑜𝑢𝑝.✅ 
@@ -127,7 +127,8 @@ HELP_STRINGS = """
 Don't forget ALINA is a Powerful and advance Bot 😎 You can expect more from this Bot 🔥..
 Please check all commands of ALINA after that you can use all PRO features of this Bot. Explore all commands of ALINA 😎🤔.
 One Intresting Feature in ALINA bot => You can access Google in Groups using this Bot and also you can get images in Group using this Bot 😎.
-#UNSTOPABLEALINA#
+
+                 #UNSTOPPABLEALINA#
 
 ꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 💞𝐀𝐋𝐈𝐍𝐀💞*꧂
 
