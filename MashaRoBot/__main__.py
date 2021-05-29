@@ -110,7 +110,7 @@ buttons = [
             text="⚜️CHANNEL⚜️", url="https://t.me/PRINCEBOTS"),
     ],
     [  
-        InlineKeyboardButton(text="💞𝐀𝐋𝐈𝐍𝐀💞 👥SUPPORT GROUP👥", url="https://t.me/PRINCEBOTSUPPORT"),
+        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/PRINCEBOTSUPPORT"),
     InlineKeyboardButton(text="🎵MUSIC-GROUP🎵",url="https://t.me/MUSIC_CHATS_GROUP"),
 ], 
  [ InlineKeyboardButton(text="👑BOT-CREADIT👑",url="https://t.me/TERABAAP_DEVIL"),
