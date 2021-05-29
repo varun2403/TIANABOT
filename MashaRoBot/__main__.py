@@ -77,10 +77,20 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """Hello, My name is 💞𝐀𝐋𝐈𝐍𝐀💞
 Hey , I am a Group Manager,
 Made specially for Managing Groups.
-Alina Comes with Two Maine features 
-💞𝐀𝐋𝐈𝐍𝐀💞 Powerful Group Management Bot + Vc Bot. You can manage your Group using Alina and also you can Play songs in Vc using Alina. IT makes💞𝐀𝐋𝐈𝐍𝐀💞 different then other bots. 
 
-
+💞𝐀𝐋𝐈𝐍𝐀💞 Features in ALINA 🔥
+1=> You can manage your Group.✅
+2=> You can play songs in VC.✅
+3=> ALINA is a powerful and high-advance BOT ✅
+4=> ALINA Comes with New and advance feature ✅
+5=> You can't compare ALINA BOT with others Bot because ALINA is a PRO BOT 😎
+6=> More features only in ALINA BOT 😎🔥
+7=> One bot(💞𝐀𝐋𝐈𝐍𝐀💞) can do everything  only🔥 You have to learn commands of this BOT ✅
+ Other Topic 👇
+8=> Please Join Our Chatting Group ✅
+9=> Don't forget to Join Music Group also 🔥🎵🎵.Come( Music Group 🎵)here and Listen Songs in VC with Friends 🎵.
+8=> This PRO BOT ( 💞𝐀𝐋𝐈𝐍𝐀💞) Made by 𝙎𝙃𝙐𝘽𝙃𝘼𝙈 🅡🅐🅙 😎
+ 
 This Pro bot was made by [𝙎𝙃𝙐𝘽𝙃𝘼𝙈 🅡🅐🅙](https://t.me/shubhamtech2)
 Click /help or use button below to find out more about how to use me to my full potential."""
 
@@ -104,7 +114,7 @@ buttons = [
     InlineKeyboardButton(text="🎵MUSIC-GROUP🎵",url="https://t.me/MUSIC_CHATS_GROUP"),
 ], 
  [ InlineKeyboardButton(text="👑BOT-CREADIT👑",url="https://t.me/TERABAAP_DEVIL"),
- InlineKeyboardButton (text="✅MAIN CHANNEL✅",url="https://t.me/alinalog23"),],
+ ],
 
 
     [ InlineKeyboardButton(text="🔥JOIN CHATTING GROUP🔥",url="https://t.me/friendhship"),
