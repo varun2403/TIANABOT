@@ -131,7 +131,7 @@ One Intresting Feature in ALINA bot => You can access Google in Groups using thi
 
                  #UNSTOPPABLEALINA#
 
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 💞𝐀𝐋𝐈𝐍𝐀💞*꧂
+꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 💞𝐀𝐋𝐈𝐍𝐀💞(https://t.me/alinatheprincesss_bot)*꧂
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
 
