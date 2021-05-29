@@ -124,6 +124,11 @@ buttons = [
 HELP_STRINGS = """
 💞𝐀𝐋𝐈𝐍𝐀💞 WITH NEW FEATURES 
 
+Don't forget ALINA is a Powerful and advance Bot 😎 You can expect more from this Bot 🔥..
+Please check all commands of ALINA after that you can use all PRO features of this Bot. Explore all commands of ALINA 😎🤔.
+One Intresting Feature in ALINA bot => You can access Google in Groups using this Bot and also you can get images in Group using this Bot 😎.
+#UNSTOPABLEALINA#
+
 ꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 💞𝐀𝐋𝐈𝐍𝐀💞*꧂
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
