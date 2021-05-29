@@ -97,7 +97,7 @@ Click /help or use button below to find out more about how to use me to my full 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD 💞𝐀𝐋𝐈𝐍𝐀💞 TO YOUR GROUP ➕️", url="t.me/alinatheprincess_bot?startgroup=true"),
+            text="➕️ ADD 💞𝐀𝐋𝐈𝐍𝐀💞 TO YOUR GROUP ➕️", url="t.me/alinatheprincesss_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="📱ABOUT", callback_data="masha_"),
