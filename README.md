@@ -2,7 +2,7 @@
 THIS IS GROUP MANAGER BOT.
 # DEPLOYMENT
 ### CLICK BELOW IMAGE TO DEPLOY
-[![Deploy](https://telegra.ph/file/bcd7b3dec21d1c2b2583a.png)](https://heroku.com/deploy?template=https://github.com/prince301102/tiana-2.0.git)
+[![Deploy](https://telegra.ph/file/167501102e7b1b7cca989.jpg)](https://heroku.com/deploy?template=https://github.com/prince301102/tiana-2.0.git)
 
 ## DEPLOY HERE 
 
