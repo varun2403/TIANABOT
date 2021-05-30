@@ -77,7 +77,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """ 𝙃𝙚𝙡𝙡𝙤, 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 💞𝐀𝐋𝐈𝐍𝐀💞 
 𝙃𝙚𝙮,𝙄 𝙖𝙢 𝙖 𝙂𝙧𝙤𝙪𝙥 𝙈𝙖𝙣𝙖𝙜𝙚𝙧, 𝙈𝙖𝙙𝙚 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙛𝙤𝙧 𝙈𝙖𝙣𝙖𝙜𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥𝙨.
 
-💞𝐀𝐋𝐈𝐍𝐀💞 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠 𝑖𝑛 𝐴𝐿𝐼𝑁𝐴 🔥 
+💞𝐀𝐋𝐈𝐍𝐀💞 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠 𝑖𝑛 𝐴𝐿𝐼𝑁𝐴🔥(https://telegra.ph/file/167501102e7b1b7cca989.jpg)
 
 1=> 𝑌𝑜𝑢 𝑐𝑎𝑛 𝑚𝑎𝑛𝑎𝑔𝑒 𝑦𝑜𝑢𝑟 𝐺𝑟𝑜𝑢𝑝.✅ 
 
@@ -140,7 +140,7 @@ One Intresting Feature in ALINA bot => You can access Google in Groups using thi
 
                  #UNSTOPPABLEALINA#
 
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 💞𝐀𝐋𝐈𝐍𝐀💞(https:*꧂
+꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 💞𝐀𝐋𝐈𝐍𝐀💞*꧂
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
 
