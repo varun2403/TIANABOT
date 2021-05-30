@@ -101,7 +101,7 @@ PM_START_TEXT = """ 𝙃𝙚𝙡𝙡𝙤, 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 �
 
 10=> [🔥𝙎𝙃𝙐𝘽𝙃𝘼𝙈 🅡🅐🅙🔥 😎](https://t.me/shubhamtech2)
 
-This Pro bot was made by [𝙎𝙃𝙐𝘽𝙃𝘼𝙈 🅡🅐🅙](https://t.me/shubhamtech2)
+𝙏𝙝𝙞𝙨 𝙋𝙧𝙤 𝙗𝙤𝙩 𝙬𝙖𝙨 𝙢𝙖𝙙𝙚 𝙗𝙮 [𝙎𝙃𝙐𝘽𝙃𝘼𝙈 🅡🅐🅙](https://t.me/shubhamtech2)
 Click /help or use button below to find out more about how to use me to my full potential."""
 
 buttons = [
