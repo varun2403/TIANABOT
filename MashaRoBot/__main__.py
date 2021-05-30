@@ -393,7 +393,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *💞𝐀𝐋𝐈𝐍𝐀💞*, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm *[💞𝐀𝐋𝐈𝐍𝐀💞](https://telegra.ph/file/167501102e7b1b7cca989.jpg), a powerful group management bot built to help you manage your group easily.
                  ❍ I can restrict users.
                  ❍ I can greet users with customizable welcome messages and even set a group's rules.
                  ❍ I have an advanced anti-flood system.
