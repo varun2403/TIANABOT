@@ -116,8 +116,7 @@ buttons = [
     [
         InlineKeyboardButton(
             text="✨MY OWNER 😎✨", url="http://t.me/shubhamtech2"),
-        InlineKeyboardButton(
-            text="⚜️CHANNEL⚜️", url="https://t.me/PRINCEBOTS"),
+       
     ],
     [  
         InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/PRINCEBOTSUPPORT"),
