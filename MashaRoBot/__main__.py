@@ -107,12 +107,11 @@ buttons = [
 ]
 
 HELP_STRINGS = """
-༒ 𝙏𝙄𝘼𝙉𝘼 ༒ WITH NEW FEATURES 
+༒ 𝙏𝙄𝘼𝙉𝘼 ༒ WITH NEW FEATURES
 
 ꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF TIANA*꧂
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
-
 
 𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCEBOTSUPPORT* [.](https://telegra.ph/file/1ab87614d722fd1b68caa.jpg)
 """
