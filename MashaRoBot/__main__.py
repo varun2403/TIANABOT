@@ -91,7 +91,10 @@ buttons = [
         InlineKeyboardButton(text="📱ABOUT", callback_data="masha_"),
         InlineKeyboardButton(text="⚜️HELP", callback_data="help_back"),
     ],
-    [
+   [
+        InlineKeyboardButton(
+            text="🎵 MUSIC GROUP 🎧", url="http://t.me/MUSIC_AND_CHATS")
+   [
         InlineKeyboardButton(
             text="✨MY BF✨", url="http://t.me/prince_3011"),
         InlineKeyboardButton(
@@ -110,7 +113,7 @@ HELP_STRINGS = """
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
 
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCEBOTSUPPORT* [.](https://telegra.ph/file/1ab87614d722fd1b68caa.jpg)
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCEBOTSUPPORT*.
 """
 
 
