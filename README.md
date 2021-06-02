@@ -17,18 +17,18 @@ Check me on [TELEGRAM](https://t.me/tiana_prince_bot)
 
 <details>
 <summary># CREDITS </summary>
-▪️ [PaulSonOfLars](https://github.com/PaulSonOfLars/tgbot)
-▪️ [Saitama](https://github.com/AnimeKaizoku)
-▪️ [Loli-Killer](https://github.com/Loli-Killer)
-▪️ [RealAkito](https://github.com/RealAkito)
-▪️ [MrYacha](https://github.com/MrYacha)
-▪️ [Shreyansh](https://github.com/okay-retard)
-▪️ [Ayush](https://github.com/MissJuliaRobot/MissJuliaRobot)
-▪️ [Inuka Asith](https://github.com/inukaasith)
-▪️ [Legendx](https://github.com/LEGENDXOP)
-▪️ [Amarnath c](https://github.com/Amarnathcdj)
-▪️ [Thehamkercat](https://github.com/thehamkercat)
-▪️ [DragSama](https://github.com/DragSama)
-▪️ [Shrimadhav](https://github.com/SpEcHiDe)
-▪️ [Ayra Hikari](https://github.com/AyraHikari)
+▪️ [PaulSonOfLars]
+▪️ [Saitama]
+▪️ [Loli-Killer]
+▪️ [RealAkito]
+▪️ [MrYacha]
+▪️ [Shreyansh]
+▪️ [Ayush]
+▪️ [Inuka Asith]
+▪️ [Legendx]
+▪️ [Amarnath c]
+▪️ [Thehamkercat]
+▪️ [DragSama]
+▪️ [Shrimadhav]
+▪️ [Ayra Hikari]
 </details>
