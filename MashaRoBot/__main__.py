@@ -79,13 +79,13 @@ PM_START_TEXT = """Hello, My name is ༒ A1 ༒
 Hey , I am a Group Manager,
 Made specially for Managing Groups.
 
-This Pro bot was made by [KAVAN](https://t.me/prince_3011)
+This Pro bot was made by [KAVAN](https://t.me/ktony_stark)
 Click /help or use button below to find out more about how to use me to my full potential."""
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD ༒ 𝙏𝙄𝘼𝙉𝘼 ༒ TO YOUR GROUP ➕️", url="t.me/Tiana_Prince_bot?startgroup=true"),
+            text="➕️ ADD ༒ A1 ༒ TO YOUR GROUP ➕️", url="t.me/A1_radiobot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="📱ABOUT", callback_data="masha_"),
@@ -108,9 +108,9 @@ buttons = [
 ]
 
 HELP_STRINGS = """
-༒ 𝙏𝙄𝘼𝙉𝘼 ༒ WITH NEW FEATURES
+༒ A1 ༒ WITH NEW FEATURES
 
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF TIANA*꧂
+꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF A1*꧂
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
 
