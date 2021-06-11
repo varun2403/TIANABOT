@@ -93,16 +93,16 @@ buttons = [
     ],
    [
         InlineKeyboardButton(
-            text="🎵 MUSIC GROUP 🎧", url="https://t.me/royalmusic_k")
+            text="🎵 MUSIC GROUP 🎧", url="https://t.me/little_tekkk")
    ],
    [
         InlineKeyboardButton(
             text="✨MY OWNER✨", url="http://t.me/little_tek"),
         InlineKeyboardButton(
-            text="⚜️CHANNEL⚜️", url="https://t.me/royalbotss"),
+            text="⚜️CHANNEL⚜️", url="https://t.me/little_tekk"),
     ],
     [  
-        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/royalbotss"),
+        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/little_tekk"),
     ], 
     
 ]
