@@ -118,7 +118,7 @@ HELP_STRINGS = """
 """
 
 
-DONATE_STRING ="""CONTACT ME ON @ktony_stark"""
+DONATE_STRING ="""CONTACT ME ON @little_tek"""
 
 IMPORTED = {}
 MIGRATEABLE = []
