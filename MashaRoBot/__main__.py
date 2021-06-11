@@ -363,7 +363,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *A1*, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm *𝕌𝕟𝕚𝕂*, a powerful group management bot built to help you manage your group easily.
                  ❍ I can restrict users.
                  ❍ I can greet users with customizable welcome messages and even set a group's rules.
                  ❍ I have an advanced anti-flood system.
@@ -371,8 +371,8 @@ def Masha_about_callback(update: Update, context: CallbackContext):
                  ❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  ❍ I check for admins' permissions before executing any command and more stuffs
                  \n_Masha's licensed under the GNU General Public License v3.0_
-                 Here is the [💾Repository](https://github.com/prince301102/tiana-2.0).
-                 If you have any question about masha, let us know at @princebotsupport.""",
+                 Here is the [💾Repository](https://github.com/varun2403/TIANABOT).
+                 If you have any question about masha, let us know at @little_tek.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -398,7 +398,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *A1 BOT*
+            text=""" Hi..🤗 I'm *𝕌𝕟𝕚𝕂*
                  \nHere is the [Source Code](https://github.com/varun2403/TIANABOT) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
