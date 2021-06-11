@@ -74,18 +74,18 @@ def get_readable_time(seconds: int) -> str:
 
 
 
-PM_START_TEXT = """Hello, My name is ༒ A1 ༒
+PM_START_TEXT = """Hello, My name is ༒ 𝕌𝕟𝕚𝕂 ༒
 
 Hey , I am a Group Manager,
 Made specially for Managing Groups.
 
-This Pro bot was made by [KAVAN](https://t.me/ktony_stark)
+This Pro bot was made by [𝕂𝕒𝕧𝕒𝕟](https://t.me/Little_tek)
 Click /help or use button below to find out more about how to use me to my full potential."""
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD ༒ A1 ༒ TO YOUR GROUP ➕️", url="t.me/A1_radiobot?startgroup=true"),
+            text="➕️ ADD ༒ 𝕌𝕟𝕚𝕂 ༒ TO YOUR GROUP ➕️", url="t.me/Little_tekbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="📱ABOUT", callback_data="masha_"),
@@ -97,7 +97,7 @@ buttons = [
    ],
    [
         InlineKeyboardButton(
-            text="✨MY OWNER✨", url="http://t.me/ktony_stark"),
+            text="✨MY OWNER✨", url="http://t.me/little_tek"),
         InlineKeyboardButton(
             text="⚜️CHANNEL⚜️", url="https://t.me/royalbotss"),
     ],
@@ -108,7 +108,7 @@ buttons = [
 ]
 
 HELP_STRINGS = """
-༒ A1 ༒ WITH NEW FEATURES
+༒ 𝕌𝕟𝕚𝕂 ༒ WITH NEW FEATURES
 
 ꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF A1*꧂
 
