@@ -93,16 +93,16 @@ buttons = [
     ],
    [
         InlineKeyboardButton(
-            text="🎵 MUSIC GROUP 🎧", url="http://t.me/MUSIC_AND_CHATS")
+            text="🎵 MUSIC GROUP 🎧", url="https://t.me/royalmusic_k")
    ],
    [
         InlineKeyboardButton(
-            text="✨MY BF✨", url="http://t.me/prince_3011"),
+            text="✨MY OWNER✨", url="http://t.me/ktony_stark"),
         InlineKeyboardButton(
-            text="⚜️CHANNEL⚜️", url="https://t.me/PRINCEBOTS"),
+            text="⚜️CHANNEL⚜️", url="https://t.me/royalbotss"),
     ],
     [  
-        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/PRINCEBOTSUPPORT"),
+        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/royalbotss"),
     ], 
     
 ]
@@ -118,7 +118,7 @@ HELP_STRINGS = """
 """
 
 
-DONATE_STRING ="""CONTACT ME ON @PRINCE_3011"""
+DONATE_STRING ="""CONTACT ME ON @ktony_stark"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -363,7 +363,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *TIANA*, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm *A1*, a powerful group management bot built to help you manage your group easily.
                  ❍ I can restrict users.
                  ❍ I can greet users with customizable welcome messages and even set a group's rules.
                  ❍ I have an advanced anti-flood system.
@@ -398,8 +398,8 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *TIANA BOT*
-                 \nHere is the [Source Code](https://GitHub.com/prince301102/tiana-2.0) .""",
+            text=""" Hi..🤗 I'm *A1 BOT*
+                 \nHere is the [Source Code](https://github.com/varun2403/TIANABOT) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
             reply_markup=InlineKeyboardMarkup(
